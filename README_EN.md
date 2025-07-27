@@ -264,5 +264,3 @@ A: After the playbook finishes, the kubeconfig file will appear on the control-p
 - Check user rights.
 - Check that IP addresses and variables are correct.
 - Carefully read error messages.
-
-**If you still have questions — feel free to ask!** 
