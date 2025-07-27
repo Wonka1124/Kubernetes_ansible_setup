@@ -43,10 +43,8 @@ cd Kubernetes_ansible_setup-main
 
 1. Установите Ansible:
    ```bash
-   pip install ansible
+   sudo apt install ansible
    ```
-   **Пояснение:**
-   - Эта команда установит Ansible через pip. Если pip не установлен: `sudo apt install python3-pip`
 
    **Пример вывода:**
    ```
