@@ -42,10 +42,7 @@ Resolving deltas: ...
 
 1. Install Ansible:
    ```bash
-   pip install ansible
-   ```
-   **Explanation:**
-   - This command installs Ansible via pip. If you don't have pip: `sudo apt install python3-pip`
+sudo apt install ansible
 
    **Example output:**
    ```
