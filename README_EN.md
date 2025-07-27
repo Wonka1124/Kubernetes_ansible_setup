@@ -42,7 +42,8 @@ Resolving deltas: ...
 
 1. Install Ansible:
    ```bash
-sudo apt install ansible
+   sudo apt install ansible
+   ```
 
    **Example output:**
    ```
